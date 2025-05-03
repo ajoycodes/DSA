@@ -12,11 +12,3 @@ public:
         return a;
     }
 };
-
-int main() {
-    Solution sol;
-    int a = 5, b = 3;
-    cout << "Sum of " << a << " and " << b << " is: " << sol.getSum(a, b) << endl;
-
-    return 0;
-}

@@ -1,6 +1,7 @@
 {
-    "files.associations": {
-        "string": "cpp",
-        "unordered_map": "cpp"
-    }
+  "files.associations": {
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "queue": "cpp"
+  }
 }
